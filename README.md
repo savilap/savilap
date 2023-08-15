@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Savi</h1>
-<h3 align="center">I'm going to be the king of pirates</h3>
+<h3 align="center">I'm going to be the king of pirates ![image](https://github.com/savilap/savilap/assets/142276763/9fe80891-f568-4ae2-99ea-04fb8c912865)
+</h3>
 
 - 🌱 I’m currently learning **Front-End Development**
 
