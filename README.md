@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Savi</h1>
 <h3 align="center">I'm going to be the king of pirates</h3>
 
-- 🌱 I’m currently learning **Front e.d**
+- 🌱 I’m currently learning **Front-End Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
