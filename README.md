@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Savi</h1>
-<h3 align="center">I'm going to be the king of pirates y un gran web developer </h3>
+<h3 align="center">I'm going to be the king of pirates</h3>
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **Front Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/savilapinilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="savilapinilla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-avila-pinilla-566823205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-avila-pinilla-566823205/" height="30" width="40" /></a>
 <a href="https://instagram.com/savilapinilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="savilapinilla" height="30" width="40" /></a>
 </p>
 
